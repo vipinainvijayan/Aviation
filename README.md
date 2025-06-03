@@ -17,7 +17,7 @@ Work with timestamps and calculate flight durations
 
 📁 **Project Structure**
 .
-├── Flight_Data.ipynb 
+├── Flight_Data_Ingest.ipynb 
 ├── README.md 
 
 **Below are the steps involved**
